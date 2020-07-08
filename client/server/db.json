@@ -1,0 +1,20 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "title": "Menunggu Kepastian",
+            "artist": "Priambodo Kurniawan",
+            "genre": "metal",
+            "url": "https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/69751/optimized_large_thumb_stage.jpg",
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "title": "Kegalauan yg Haqiqi",
+            "artist": "Alfonso",
+            "genre": "indie",
+            "url": "https://marketplace.canva.com/EADaoIbXy3s/1/0/1600w/canva-colorful-abstract-album-cover-1esJb0A6G44.jpg",
+            "userId": 1
+        }
+    ]
+}
